@@ -8,7 +8,7 @@ Gürültülü ses sinyallerinden temiz sesin tahmin edilmesi. Bunun için çeşi
 
 - U-Net
 - VGG-style CNN
-- CNN + LSTM (CRN benzeri)
+- CNN + LSTM (CRN)
 - ResNet + U-Net
 
 ---
