@@ -70,7 +70,19 @@ plt.legend()
 plt.show()
 
 
-Bu proje şu anda geliştirme aşamasındadır. Eksik veya hatalı yerleri mevcut olabilir. Düzenlendikçe paylaşılacaktır. 
+## Bu proje şu anda geliştirme aşamasındadır. Eksik veya hatalı yerleri mevcut olabilir. Düzenlendikçe paylaşılacaktır.
+
+## Lisans
+
+Bu proje MIT lisansı ile lisanslanmıştır. Dilediğiniz gibi kullanabilir, değiştirebilir ve dağıtabilirsiniz. Ancak kaynak belirtilmelidir. Ayrıntılar için [LICENSE](LICENSE) dosyasına bakınız.
+
+
+---
+
+## ✉️ İletişim
+
+📧 beyzadursun2002@gmail.com  
+📍 GitHub: [@beyzadursun0](https://github.com/beyzadursun0)
 
 
 
