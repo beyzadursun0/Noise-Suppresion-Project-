@@ -70,6 +70,9 @@ plt.legend()
 plt.show()
 
 
+
+
+
 ## Bu proje şu anda geliştirme aşamasındadır. Eksik veya hatalı yerleri mevcut olabilir. Düzenlendikçe paylaşılacaktır.
 
 ## Lisans
